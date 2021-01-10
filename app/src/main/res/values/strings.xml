@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Gabriela Lima</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">O texto biográfico tem como característica a narração da história referente à vida de alguém – este alguém podendo ser real ou não.
+        A palavra biografia é composta por dois termos de origem grega, onde bio (vida) e grafia (escrita), sendo uma escrita da vida.
+        A elaboração de um texto biográfico inicia com a pesquisa aprofundada sobre a vida da pessoa que terá a biografia produzida. Coleta de materiais,
+        informações e dados pontuais serão fundamentais para atrair o leitor.  A autoridade sobre o assunto atrai o público, e, portanto, é necessária a
+        coleta de materiais mais aprofundada possível. Entrevistar o próprio biografado, a família e até amigos próximos torna o texto muito mais verossímil.
+        Incluir falas da própria pessoa e detalhamento mínimo sobre os fatos também é importante. É importante ressaltar que, sempre que a citação for pertencente
+        a alguém, ela deverá vir indicada, entre aspas e em itálico. É importante utilizar as datas de nascimento e de morte (esta caso haja), os principais feitos e
+        contribuições da pessoa e entre outros. Todas as informações são basicamente importantes.
+        porque a pessoa que se desprenderá para ler deseja saber o máximo sobre o biografado. Por isso, um texto biográfico deverá conter dados sobre invenções,
+        casamento, filhos, vida pessoal, infância e por aí vai. Algo que tem sido recorrente nas biografias mais recentes foi o acréscimo de imagens, o que torna o
+        trabalho ainda mais interessante. Enxergar elementos exclusivos e imagéticos é sempre fundamental para contextualizar uma vida.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
